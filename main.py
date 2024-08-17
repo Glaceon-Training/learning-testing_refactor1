@@ -13,3 +13,4 @@ if __name__ == '__main__':
     show_data(result)
 
 print("Hello")
+print("Hi")
