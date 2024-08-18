@@ -15,4 +15,3 @@ if __name__ == '__main__':
 print("Hello")
 print("Hi")
 print("Yo")
-print("ash")
