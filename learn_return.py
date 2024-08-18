@@ -20,3 +20,4 @@ multiply = result(10)
 print(multiply)
 
 print("letsgo")
+print("letsgo2")
